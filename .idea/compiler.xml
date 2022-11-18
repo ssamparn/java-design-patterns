@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="creational-design-pattern" />
+        <module name="solid-design-principles" />
+        <module name="behavioral-design-pattern" />
+        <module name="structural-design-pattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="behavioral-design-pattern" target="11" />
+      <module name="creational-design-pattern" target="11" />
+      <module name="java-design-patterns" target="11" />
+      <module name="solid-design-principles" target="11" />
+      <module name="structural-design-pattern" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
