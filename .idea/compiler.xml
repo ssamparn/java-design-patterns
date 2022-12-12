@@ -16,7 +16,7 @@
     <bytecodeTargetLevel>
       <module name="behavioral-design-pattern" target="11" />
       <module name="creational-design-pattern" target="11" />
-      <module name="java-design-patterns" target="11" />
+      <module name="java-design-patterns" target="17" />
       <module name="solid-design-principles" target="11" />
       <module name="structural-design-pattern" target="11" />
     </bytecodeTargetLevel>
